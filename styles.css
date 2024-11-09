@@ -11,4 +11,7 @@ tr,th{
 tr,td{
 	border:1px solid black;
 }
+h1{
+	margin-left:40px;
+}
 
